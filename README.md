@@ -3,7 +3,7 @@
 
 - I'm currently learning **Python,HTML,CSS,Linux,Sql**
 
-- How to reach me **Özge Bayram**
+- How to reach me **özge bayram**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
