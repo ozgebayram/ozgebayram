@@ -3,7 +3,7 @@
 
 - I'm currently learning **Python,HTML,CSS,Linux,Sql**
 
-- How to reach me **özge bayram**
+- How to reach me **ozgebayram1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
