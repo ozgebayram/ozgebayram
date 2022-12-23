@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Özge Bayram</h1>
+<h1 align="center">Hi 👋, I'm Ozge Bayram</h1>
 <h3 align="center">A passionate Fullstack Developer</h3>
 
 - I'm currently learning **Python,HTML,CSS,Linux,Sql**
